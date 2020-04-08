@@ -1,1 +1,1 @@
-# La-Friendzone-ci
+# La Friendzone ci
