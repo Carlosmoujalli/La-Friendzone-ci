@@ -1,0 +1,108 @@
+<html lang="es"><head>
+    <meta charset="utf-8">
+    <title>Hola mi Gente </title>
+    <meta name="description" content="Esta es la historia a la 
+    frienzone de Carlos Moujalli 2020.">
+     <meta name="author" content="Carlos Moujalli"> 
+     <meta name="keywords" content="La friendzone de Carlos,
+      La friendzone de Carlos Moujalli, Que es la friendzone?
+      , Carlos Moujalli"> 
+      <link rel="stylesheet" href="estilos.css">
+    </head>
+
+<body>
+    
+    <div class="agrupar">   
+    <footer class="teama">Ian vas a morir solo &lt;3 </footer>
+        <time class="tiempo" datetime="30-01-2020">Hecho el 30-01-2020 por el mamadisimo Carlos el crack </time>
+
+        <header>  
+          <h1>La Frienzone de Carlos Moujalli </h1>
+        </header>
+
+    <section>
+
+        <article>
+             <h3>Carlos estara toda su vida solo porque sera Friendzoneado 
+        por todas las chicas que el desea, desde pequeno el nacio con 
+        una enfermedad llamada Friendzone y sin oficio, sin oficio 
+        porque esta haciendo esta mrkr sin sentido alguno.
+        No se que mas estupideces puedo agregar aqui asi que lo relleno diciendote que no se que poner
+        jaja salu2, y que me gusta tu mama. </h3>
+
+   
+
+
+    </article>
+</section>
+
+    <nav class="nav">
+        <p class="tema">Quedate aqui para saber mas sobre el tema...</p>
+<article class="contactar">
+    <p class="ayuda">Si necesitas ayuda, contacta con...</p>
+
+    <ul class="ayudantes">
+     <li>Tu Papa</li>
+     <li>Tu Mama</li>
+     <li>Un Psicologo</li>
+     <p class="etc">etc...</p> 
+
+    </ul></article>
+    
+
+    </nav>
+
+
+
+<img src="images/Ozuna.jpg">
+
+<section>
+
+<article>
+
+<h2>Noticia de ultima hora!!</h2>
+
+    <h3>Se ha visto al Sr.Carlos por ultima vez con la enfermedad virgenitis hace unas horas 
+    y al parecer no se encuentra nada bien, aqui unas pruebas de la victima. 
+</h3>
+</article>
+
+<img src="images/YOLO2.jpg">
+
+</section>
+
+<section class="cuentas">
+
+    <address>
+        <p class="address">
+            <a href="https://www.facebook.com/profile.php?id=100015375123111">
+        Cuenta Facebukiana del Sr.Carlos</a>
+        </p>
+    <p class="address">
+    <a href="https://www.instagram.com/carlosmoujalli/">
+     Cuenta instagriana del Sr.Carlos</a>
+
+    </p>
+    </address>
+
+    <footer>
+    <p class="Creador">Carlos El Crack</p>
+    </footer>
+
+</section>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  </body></html>
