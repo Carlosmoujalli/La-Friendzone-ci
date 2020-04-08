@@ -1,0 +1,87 @@
+body{
+color: black; 
+width: 1250px;
+margin: auto;
+background: black;
+}
+div{
+background: white;
+color: black;
+
+}
+.tema {
+font-size: 30px;
+text-align: center;
+background: white;
+}
+p {
+font-size: 20px;
+
+}
+.ayuda {
+font-size: 20px;
+
+}
+address, footer {
+text-align: center;
+
+}
+
+.agrupar {
+margin-top: 20px;
+margin-left: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+padding: 10px;
+border: 2px solid grey;
+}
+.ayudantes {
+font-size: 20px;
+list-style: none;
+padding: 3px;
+
+}
+h3, header {
+border: 1px solid grey;
+padding: 10px;
+
+}
+header{
+background: black;
+color: white;
+
+}
+
+.address, .etc, .creador {
+font-size: 20px;
+
+}
+img {
+text-align: center;
+
+}
+.teama {
+font-size: 13px;
+
+}.nav {
+    border: 2px solid grey;
+    width: 600px;
+    margin-right: auto;
+float: left;
+    
+}
+.contactar {
+    border: 1px solid grey;
+padding: 2px;
+
+}
+img {
+width: 350px;
+padding-left: 120px;
+
+}
+.cuentas {
+background: grey;
+padding-top: 3px;
+padding-bottom: 4px;
+}
